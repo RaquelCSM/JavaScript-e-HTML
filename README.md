@@ -1,2 +1,2 @@
-# JavaScript e HTML
+# JavaScript e HTML 😎
  Alura Exercicios
